@@ -1,0 +1,42 @@
+.formDiv{
+    background-color: #f4f4f3;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .card{
+        // color: $white !important;
+        border-top-right-radius: 50px;
+        border-bottom-left-radius: 50px;
+        box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px;
+        // box-shadow: #ffffff 0px 26px 25px, #ffffff 0px -6px 30px, #ffffff 0px 4px 6px, #ffffff 0px 12px 13px, #ffffff 0px -3px 5px;
+        background-color: $primary;
+        border: none;
+        outline: none;
+        transform: scale(1.05);
+        input {
+            width: 80%;
+            margin: auto;
+        }
+    }
+}
+
+#sign {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.664);
+}
+#sign:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    color: white;
+}
+
+#ForgetPass, #RememberPass {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.664);
+}
+#ForgetPass:hover, #RememberPass:hover {
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+}

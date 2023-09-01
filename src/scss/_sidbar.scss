@@ -1,0 +1,126 @@
+
+#layout-container {
+    background-color: #C9D4C4;
+    #content-container {
+        padding: 2.5% 5%;
+
+    }
+}
+#layout-box{
+    display: flex;
+    border-radius: 20px;
+
+}
+#sider-container {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: white;
+    padding: 10px;
+
+}
+#sider-section{
+    border-radius: 20px;
+    background-color: #F4F4F4;
+
+}
+
+#upcoming {
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+#upcoming:hover {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+
+}
+
+  
+#today {
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+#today:hover {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#calender {
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+#calender:hover {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#add_sticky {
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+
+}
+#add_sticky:hover {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#personal {
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+#personal:hover {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#work {
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+#work:hover {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+// #list1 {
+//     padding-left: 10px;
+//     color: black;
+//     text-decoration: none;
+// }
+// #list1:hover {
+//     font-weight: bold;
+//     color: black;
+//     text-decoration: none;
+// }
+
+#signout {
+    padding-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+#signout:hover {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+// #card {
+//     width: 30%;
+//     border: 2px solid black;
+//     margin-left: 3%;
+// }
+
+#colapse-btn:hover {
+    background-color: transparent !important;
+}
